@@ -1,0 +1,13 @@
+/*
+- Universais
+- Elemento
+- Agrupados
+- de classe
+- de id
+- Descendentes
+- Pseudo-seletores
+*/
+.paragrafo {
+    font: 12pt arial, sans-serif;
+    color: blue;
+}
